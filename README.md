@@ -14,7 +14,7 @@
 |          | miniobs               |     |       |        |
 |          | nday_container_escape |     |       |        |
 |          | qemu-zzz              |     |       |        |
-| WEB      | hids                  |     |       |        |
+| WEB      | hids                  |  [web/hids](./web/hids)  |       |        |
 |          | cloud                 |     |       |        |
 |          | mine1                 |     |       |        |
 |          | mine2                 |     |       |        |
