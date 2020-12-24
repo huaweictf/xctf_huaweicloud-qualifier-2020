@@ -1,7 +1,7 @@
 # xctf_huaweicloud-qualifier-2020 
 
 ## Writeup
-![writeup.md](./writeup.md)
+[writeup.md](./writeup.md)
 
 ## 题目源码
 | Category |         Name          | Url | Score | Solved |
