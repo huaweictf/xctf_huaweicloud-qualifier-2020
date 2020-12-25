@@ -8,12 +8,12 @@
 | -------- | --------------------- | --- | ----- | ------ |
 | PWN      | cpp                   |     |       |        |
 |          | game                  |     |       |        |
-|          | fastexec              |     |       |        |
+|          | fastexec              | [pwn/fastexec](./pwn/fastexec)    |       |        |
 |          | fastga                |     |       |        |
 |          | mysqli                |     |       |        |
 |          | miniobs               |     |       |        |
 |          | nday_container_escape |     |       |        |
-|          | qemu-zzz              |     |       |        |
+|          | qemu-zzz              |  [pwn/qemu-zzz](./pwn/qemuzzz)   |       |        |
 | WEB      | hids                  |  [web/hids](./web/hids)  |       |        |
 |          | cloud                 |     |       |        |
 |          | mine1                 |  [web/mine1](./web/mine1)   |       |        |
