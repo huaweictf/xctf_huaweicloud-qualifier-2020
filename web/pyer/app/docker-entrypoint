@@ -1,0 +1,3 @@
+#!/bin/sh
+
+su - b1ind -c "python /app/app.py"
