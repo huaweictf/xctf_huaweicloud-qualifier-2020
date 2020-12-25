@@ -18,8 +18,8 @@
 |          | cloud                 |     |       |        |
 |          | mine1                 |  [web/mine1](./web/mine1)   |       |        |
 |          | mine2                 |  [web/mine2](./web/mine2)   |       |        |
-|          | pyer                  |     |       |        |
-|          | webshell              |     |       |        |
+|          | pyer                  |  [web/pyer](./web/pyer)   |       |        |
+|          | webshell              | :x:    |       |        |
 | MISC     | EthEnc                |     |       |        |
 |          | WhoMovedMyFlag        |     |       |        |
 | Reverse  | weird_lua             |     |       |        |
