@@ -16,7 +16,7 @@
 |          | qemu-zzz              |     |       |        |
 | WEB      | hids                  |  [web/hids](./web/hids)  |       |        |
 |          | cloud                 |     |       |        |
-|          | mine1                 |     |       |        |
+|          | mine1                 |  [web/mine1](./web/mine1)   |       |        |
 |          | mine2                 |     |       |        |
 |          | pyer                  |     |       |        |
 |          | webshell              |     |       |        |
