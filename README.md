@@ -17,7 +17,7 @@
 | WEB      | hids                  |  [web/hids](./web/hids)  |       |        |
 |          | cloud                 |     |       |        |
 |          | mine1                 |  [web/mine1](./web/mine1)   |       |        |
-|          | mine2                 |     |       |        |
+|          | mine2                 |  [web/mine2](./web/mine2)   |       |        |
 |          | pyer                  |     |       |        |
 |          | webshell              |     |       |        |
 | MISC     | EthEnc                |     |       |        |

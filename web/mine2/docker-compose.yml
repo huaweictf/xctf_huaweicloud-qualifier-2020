@@ -1,0 +1,7 @@
+version: '3'
+services:
+  challenge:
+    build: .
+    image: swr.cn-south-1.myhuaweicloud.com/waterdropctf/hwc-qualifier-2020_web_mine2:0.1
+    ports:
+      - "8000:8000"
