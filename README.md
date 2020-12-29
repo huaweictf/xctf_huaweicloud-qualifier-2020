@@ -21,7 +21,7 @@
 |          | pyer                  |  [web/pyer](./web/pyer)   |       |        |
 |          | webshell              | :x:    |       |        |
 | MISC     | EthEnc                | [misc/EthEnc](./misc/EthEnc) |       |        |
-|          | WhoMovedMyFlag        |     |       |        |
+|          | WhoMovedMyFlag        | [misc/WhoMovedMyFlag](./misc/WhoMovedMyFlag)   |       |        |
 | Reverse  | weird_lua             | [reverse/weird_lua](./reverse/weird_lua) |       |        |
 |          | divination            | [reverse/divination](./reverse/divination) |       |        |
 
