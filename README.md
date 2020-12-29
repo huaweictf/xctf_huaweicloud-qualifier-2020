@@ -20,8 +20,8 @@
 |          | mine2                 |  [web/mine2](./web/mine2)   |       |        |
 |          | pyer                  |  [web/pyer](./web/pyer)   |       |        |
 |          | webshell              | :x:    |       |        |
-| MISC     | EthEnc                |     |       |        |
+| MISC     | EthEnc                | [misc/EthEnc](./misc/EthEnc) |       |        |
 |          | WhoMovedMyFlag        |     |       |        |
-| Reverse  | weird_lua             |     |       |        |
-|          | divination            |     |       |        |
+| Reverse  | weird_lua             | [reverse/weird_lua](./reverse/weird_lua) |       |        |
+|          | divination            | [reverse/divination](./reverse/divination) |       |        |
 
