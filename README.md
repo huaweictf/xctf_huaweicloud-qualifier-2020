@@ -6,12 +6,12 @@
 ## 题目源码
 | Category |         Name          | Url | Score | Solved |
 | -------- | --------------------- | --- | ----- | ------ |
-| PWN      | cpp                   |     |       |        |
-|          | game                  |     |       |        |
+| PWN      | cpp                   | [pwn/pwn_cpp](./pwn/pwn_cpp)    |       |        |
+|          | game                  | [pwn/game_pwn](./pwn/game_pwn)    |       |        |
 |          | fastexec              | [pwn/fastexec](./pwn/fastexec)    |       |        |
-|          | fastga                |     |       |        |
-|          | mysqli                |     |       |        |
-|          | miniobs               |     |       |        |
+|          | fastga                | [pwn/fastga](./pwn/fastga)    |       |        |
+|          | mysqli                | [pwn/mysqli](./pwn/mysqli)    |       |        |
+|          | miniobs               | [pwn/miniobs](./pwn/miniobs)    |       |        |
 |          | nday_container_escape |     |       |        |
 |          | qemu-zzz              |  [pwn/qemu-zzz](./pwn/qemuzzz)   |       |        |
 | WEB      | hids                  |  [web/hids](./web/hids)  |       |        |
